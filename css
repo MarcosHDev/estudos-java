@@ -1,0 +1,10 @@
+calculator/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── example/
+│                   └── CalculatorServlet.java
+└── webapp/
+    ├── index.html
+    └── styles.css
